@@ -6,7 +6,7 @@
 ###Step by Step Excel explaination:
 
 - **Step1** : Remove duplicate
-- **Step 2**: 
+- **Step 2**: Link the relationship on each table
 
 
 Findings:
