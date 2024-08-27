@@ -1,17 +1,20 @@
-# E-commerce_orders
+# E-commerce Customer Analysis
 
 ## 🛍️: Project Overview 
 
 
-### This project demonstrates the use of PivotTables and PivotCharts to create a dynamic and interactive dashboard for analyzing E-Commerce customers EDA at a glance. The dashboard includes the following key features:
-- **Line Chart:** Displays total sales over time, segmented by coffee type.
-- **Top 5 Categoties:** A bar chart highlighting the top five categories based on sales.
-- **Interactive Timeline:** Allows manipulation of visuals to explore data trends over specific periods.
-- **Slicers:** Enables filtering by payment type, product category, and customer states.
+This project showcases the use of PivotTables and PivotCharts to build a dynamic, interactive dashboard for E-Commerce customer analysis. The dashboard allows for an at-a-glance understanding of key metrics and trends, making it an essential tool for exploratory data analysis (EDA):
+
+##Key Features
+
+- **Line Chart:** Displays total sales over time, segmented by payment type, state, product category.
+- **Top 5 Categoties:** A bar chart displaying the top five product categories based on sales volume..
+- **Interactive Timeline:** Explore data trends over specific periods by manipulating the timeline.
+- **Slicers:** Filter the data by payment type, product category, and customer state for deeper insights.
 
 Insights Summary:
-- the sales are surgung in 2016 and slow down in 2017
-- the top selling product is toys 74% of tottal sales, second prodcuts is blank.
-- most of the customers use credit card as payment type
-- SP state has the highest sum of sales also on dollars amount
+- **Sales Trends:** Sales surged in 2016 but showed a slowdown in 2017.
+- **Top-Selling Product:** Toys dominate sales, accounting for 74% of total sales. The second top product category remains undefined.
+- **Payment Preferences:** The majority of customers prefer credit cards for transactions.
+- **Regional Sales:** The state of SP leads in both total sales volume and revenue.
 
