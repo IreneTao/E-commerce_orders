@@ -1,6 +1,6 @@
 # E-commerce_orders
 
-## :coffee: Project Overview 
+## 🛍️: Project Overview 
 
 
 ### This project demonstrates the use of PivotTables and PivotCharts to create a dynamic and interactive dashboard for analyzing E-Commerce customers EDA at a glance. The dashboard includes the following key features:
