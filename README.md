@@ -5,7 +5,7 @@
 
 This project showcases the use of PivotTables and PivotCharts to build a dynamic, interactive dashboard for E-Commerce customer analysis. The dashboard allows for an at-a-glance understanding of key metrics and trends, making it an essential tool for exploratory data analysis (EDA):
 
-##Key Features
+## Key Features
 
 - **Line Chart:** Displays total sales over time, segmented by payment type, state, product category.
 - **Top 5 Categoties:** A bar chart displaying the top five product categories based on sales volume..
